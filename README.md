@@ -17,7 +17,7 @@
     - Open Server-side-Springboot
     - Project open in STS(SpringToolSuite)
     - Install maven dependency
-    - start server    // Run nodemon on localhost:8080 with socket server
+    - start server    // Run java_Spring_Boot on localhost:8080 with socket server
 
 
 ## Project setup
